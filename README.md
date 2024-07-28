@@ -44,7 +44,7 @@ My experience includes interning at **Prudent AI** as a Data Scientist, where I 
 
 ### 📚 Publication
 
-- **"Analysing Lifetime of Components using Gamma Distribution"** - NCMLAI ’18
+- **"[Analysing Lifetime of Components using Gamma Distribution](https://www.researchgate.net/publication/327393246_ANALYSING_LIFETIME_OF_COMPONENTS_USING_GAMMA_DISTRIBUTION)"** - NCMLAI ’18
 
 ---
 
