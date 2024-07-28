@@ -32,7 +32,9 @@ Data Scientist at Prudent AI, Chennai, India
 Skills:
 
 Languages:   Python, R, SQL
+
 Tools & Technologies:   Tableau, PowerBI, AWS, GCP, Jupyter Notebook, R Studio, GitHub, Jira
+
 Data Science Skills:   EDA, Data Wrangling, Machine Learning, AI, Deep Learning, NLP, Statistical Methods, Predictive & Descriptive Models, Big Data, Data Visualization
 
 Leadership Experience:
