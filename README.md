@@ -20,7 +20,9 @@ Welcome to my GitHub profile! I'm Arjun Kumaran, a Data Scientist and Informatio
 About Me
 
 Education:
+
 Master of Science in Information Management, University of Illinois Urbana-Champaign, GPA: 3.90/4
+
 Master of Science in Data Science (5-Year Integrated Program), Coimbatore Institute of Technology, GPA: 8.23/10
 
 Experience:
