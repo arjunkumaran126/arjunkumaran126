@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Arjun Kumaran**, an enthusiastic, responsible, and mindful learner committed to **"Creating a Difference"** in the world. With a solid academic foundation, including a Master’s Degree in Data Science from Coimbatore Institute of Technology and an ongoing Master’s degree in Information Management from the University of Illinois Urbana-Champaign, I specialize in data analysis, machine learning, and natural language processing.
+Welcome to my GitHub profile! I'm **Arjun Kumaran**, an enthusiastic, responsible, and mindful learner committed to **"Creating a Difference"** in the world. With a solid academic foundation, including a Master’s Degree in Data Science from Coimbatore Institute of Technology and a Master’s degree in Information Management from the University of Illinois Urbana-Champaign, I specialize in data analysis, machine learning, and natural language processing.
 
 My experience includes interning at **Prudent AI** as a Data Scientist, where I conceptualized and built an 'iXBRL Tagger' with 87% accuracy and developed a pipeline for extracting transaction details from bank statements, achieving 94% accuracy and 13% faster processing. At **PayNearby**, I enhanced testing efficiency by 70% through automated test case development using TestNG and Appium and integrated Chucker to monitor HTTP requests and responses in real-time, identifying and resolving critical bugs.
 
